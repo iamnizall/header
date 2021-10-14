@@ -1,4 +1,4 @@
-#NAMA  : Muhammad Nizal Awaludin R
+NAMA  : Muhammad Nizal Awaludin R
 
 NIM    : 5181011050
 
